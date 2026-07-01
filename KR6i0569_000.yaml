@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0569/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圓覺經直解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X10/X10n0258.xml
+    old_id: X10n0258
+hash: sha256:a0f81bdf8776cd686c203a6ed226be599ce8803fc2718681ffc4d63cbc37b042
