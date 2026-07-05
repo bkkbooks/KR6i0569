@@ -22,11 +22,12 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0569_000.yaml, hash: 'sha256:a0f81bdf8776cd686c203a6ed226be599ce8803fc2718681ffc4d63cbc37b042'}
-  - {seq: 1, filename: KR6i0569_001.yaml, hash: 'sha256:68bb0e2c5e695935d11d7ecf69d3e0859d0f38cc9a958ae838607b6650ea9e16'}
-  - {seq: 2, filename: KR6i0569_002.yaml, hash: 'sha256:5bca3ab0c9cea6f8dfb96183ad876480255ecb08bb3730edd3fd9be919f0897a'}
+  - {seq: 1, filename: KR6i0569_001.yaml, hash: 'sha256:b077574c84c59888a0ebcb676704f0fcd4a113bd19d75b7daf4a4223c7a541e0'}
+  - {seq: 2, filename: KR6i0569_002.yaml, hash: 'sha256:08a1bba3bdccf5c3eae0844e049fb6657a9ea5b6cdef28c6edad1f6a6f3c08a4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0569_001.markers.yaml, hash: 'sha256:7399a71a59eeaaed6ed96d2731d0c48da2b50c28238d8d81d2f9a3136654053f'}
-  - {seq: 2, role: markers, filename: assets/KR6i0569_002.markers.yaml, hash: 'sha256:2d5b1f0bff107adad4a4bfe858133801bf2c3ad6dc1ce40db430122625ea8f31'}
+  - {seq: 0, role: markers, filename: assets/KR6i0569_000.markers.yaml, hash: 'sha256:c276f4c8fe4f4dc933ec1718bcf5355cbadd3d4a6caab9261f342d1a24933b4f'}
+  - {seq: 1, role: markers, filename: assets/KR6i0569_001.markers.yaml, hash: 'sha256:465d94fd0445b8dd2479fedcee8821325f182be74b4ee69ef127e164b087ee10'}
+  - {seq: 2, role: markers, filename: assets/KR6i0569_002.markers.yaml, hash: 'sha256:c6903657dd2cce3eced08e4793102eecb5aa95c76935f5b20f7f8753dcc87ec1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -238,7 +239,4 @@ table_of_contents:
   label: No. 258-B 大方廣圓覺經直解後序
   type: mulu
   level: 1
-hash: sha256:d48777199773e1aa368220793a554c2b3c57b03ade3ee7a35b5c079a796431ff
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e02838f31494b112178e67a8a5f6170022d9993958dd4924afb3e8ea30bf59c3
